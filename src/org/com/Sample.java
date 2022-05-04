@@ -10,6 +10,8 @@ public class Sample {
 		
 		System.out.println("GOOD MORNING");
 		
+		System.out.println("FINAL");
+		
 	
 	}
 
